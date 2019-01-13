@@ -1,4 +1,4 @@
-# Micro services with MassTransit & CQRS pattern & Saga
+# Micro services with MassTransit, CQRS pattern & Saga
 The prupose of this project is to develop two micro services in .net core console application and manage message queue using Masstransit. I have used topshelf, an open source nuget library to manage my services in windows. The payment service cover an implementation of CQRS pattern.
 
 # URL:
