@@ -1,0 +1,16 @@
+D:\Projects\MassTransitBestPractice-master\Sagas.Service\bin\Debug\netcoreapp2.2\Sagas.Service.deps.json
+D:\Projects\MassTransitBestPractice-master\Sagas.Service\bin\Debug\netcoreapp2.2\Sagas.Service.runtimeconfig.json
+D:\Projects\MassTransitBestPractice-master\Sagas.Service\bin\Debug\netcoreapp2.2\Sagas.Service.runtimeconfig.dev.json
+D:\Projects\MassTransitBestPractice-master\Sagas.Service\bin\Debug\netcoreapp2.2\Sagas.Service.dll
+D:\Projects\MassTransitBestPractice-master\Sagas.Service\bin\Debug\netcoreapp2.2\CQRS.Business.dll
+D:\Projects\MassTransitBestPractice-master\Sagas.Service\bin\Debug\netcoreapp2.2\CQRS.Models.dll
+D:\Projects\MassTransitBestPractice-master\Sagas.Service\bin\Debug\netcoreapp2.2\CQRS.Business.pdb
+D:\Projects\MassTransitBestPractice-master\Sagas.Service\bin\Debug\netcoreapp2.2\CQRS.Models.pdb
+D:\Projects\MassTransitBestPractice-master\Sagas.Service\obj\Debug\netcoreapp2.2\Sagas.Service.csprojAssemblyReference.cache
+D:\Projects\MassTransitBestPractice-master\Sagas.Service\obj\Debug\netcoreapp2.2\Sagas.Service.csproj.CoreCompileInputs.cache
+D:\Projects\MassTransitBestPractice-master\Sagas.Service\obj\Debug\netcoreapp2.2\Sagas.Service.AssemblyInfoInputs.cache
+D:\Projects\MassTransitBestPractice-master\Sagas.Service\obj\Debug\netcoreapp2.2\Sagas.Service.AssemblyInfo.cs
+D:\Projects\MassTransitBestPractice-master\Sagas.Service\obj\Debug\netcoreapp2.2\Sagas.Service.csproj.CopyComplete
+D:\Projects\MassTransitBestPractice-master\Sagas.Service\bin\Debug\netcoreapp2.2\Sagas.Service.pdb
+D:\Projects\MassTransitBestPractice-master\Sagas.Service\obj\Debug\netcoreapp2.2\Sagas.Service.dll
+D:\Projects\MassTransitBestPractice-master\Sagas.Service\obj\Debug\netcoreapp2.2\Sagas.Service.pdb
