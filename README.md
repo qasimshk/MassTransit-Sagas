@@ -1,0 +1,2 @@
+# MassTransit-Sagas
+Sagas pattern
